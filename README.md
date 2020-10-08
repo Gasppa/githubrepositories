@@ -10,6 +10,7 @@ A aplicação react vai rodar na porta 3000.
 
 Feito isso, acessar a pasta 'backend' do diretório via linha de comando e executar:
 
+### `npm install`
 ### `node server.js`
 
 O server node estará rodando na porta 5000.
